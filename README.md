@@ -84,4 +84,4 @@ AWS Step Functions
 
 ![diagrama arquitetura 2.jpg](diagrama%20arquitetura%202.jpg)
 
-Rogerio Tavares.  ((16 MARCO 24)) 
+Rogerio Tavares.  (( 16 MARÇO 24)) 
