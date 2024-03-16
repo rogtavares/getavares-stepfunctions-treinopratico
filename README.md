@@ -28,7 +28,7 @@ AWS Step Functions
 - Criar uma regra de evento no AWS Cloudwatch
 - Testar
 
-## Passos do desenvolvimento...faça com ( muita calma) calma .
+## Passos do desenvolvimento...faça com ( muita) calma .
 
 
 ### Criar bucket no Amazon S3
