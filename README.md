@@ -3,9 +3,8 @@
 
 
 Treino pratico, para desenvolver uma aplicaçao baseada em servicos  da
-AWS orquestrada por meio do
-
-## Serviços AWS utilizados  AWS Step Functions
+AWS orquestrada por meio do  Serviços AWS utilizados 
+AWS Step Functions
 
 - 1 AWS Step Functions
 - 2 AWS Lambda
@@ -30,7 +29,7 @@ AWS orquestrada por meio do
 - Criar uma regra de evento no AWS Cloudwatch
 - Testar
 
-## Passos do desenvolvimento...faca com calma .
+## Passos do desenvolvimento...faça com ( muita calma) calma .
 
 
 ### Criar bucket no Amazon S3
