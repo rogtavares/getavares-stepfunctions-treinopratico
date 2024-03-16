@@ -6,11 +6,11 @@ AWS orquestrada por meio do  Serviços AWS utilizados
 AWS Step Functions
 
 - 1 AWS Step Functions
-- 2 AWS Lambda
-- 3 Amazon S3
-- 4 Amazon Rekognition
-- 5 Amazon DynamoDB
-- 6 Amazon Cloudwatch
+- 2  AWS Lambda
+- 3  Amazon S3
+- 4  Amazon Rekognition
+- 5  Amazon DynamoDB
+- 6  Amazon Cloudwatch
 - 7 Amazon Cloudtrail
 
 ## Requisitos
@@ -28,7 +28,7 @@ AWS Step Functions
 - Criar uma regra de evento no AWS Cloudwatch
 - Testar
 
-## Passos do desenvolvimento...faça com ( muita calma) calma .
+## Passos do DEV...faça com ( muita) calma .
 
 
 ### Criar bucket no Amazon S3
@@ -81,6 +81,7 @@ AWS Step Functions
 
 ### ENCERRA SERVIÇO AWS. (( para não gerar custos ))
 
-Rogerio Tavares.  ((16 MARCO 24)) 
 
 ![diagrama arquitetura 2.jpg](diagrama%20arquitetura%202.jpg)
+
+Rogerio Tavares.  ((16 MARCO 24)) 
