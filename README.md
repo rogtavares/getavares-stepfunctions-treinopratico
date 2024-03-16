@@ -1,5 +1,4 @@
-# TREINO  Step Functions - 
-
+# TREINO  AWS Step Functions 
 
 
 Treino pratico, para desenvolver uma aplicaçao baseada em servicos  da
@@ -84,4 +83,4 @@ AWS Step Functions
 
 Rogerio Tavares.  ((16 MARCO 24)) 
 
-![diagrama arquitetura.jpg](diagrama%20arquitetura.jpg)
+![diagrama arquitetura 2.jpg](diagrama%20arquitetura%202.jpg)
