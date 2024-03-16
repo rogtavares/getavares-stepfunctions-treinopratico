@@ -83,4 +83,4 @@ AWS Step Functions
 
 Rogerio Tavares.  ((16 MARCO 24)) 
 
-![diagrama arquitetura 2.jpg](diagrama%20arquitetura%202.jpg)
+![diagrama arquitetura 2.jpg ](diagrama%20arquitetura%202.jpg)
