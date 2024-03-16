@@ -1,21 +1,24 @@
-# TREINO  Step Functions - ROGERIO TAVARES 16 MARCO 23
+# TREINO  Step Functions - 
+ROGERIO TAVARES 16 MARCO 24
 
 
-Treino pratico , de desenvolver uma aplicaçao baseada em servicos  da
+Treino pratico ,  para desenvolver uma aplicaçao baseada em servicos  da
 AWS orquestrada por meio do
+
 ## Serviços AWS utilizados  AWS Step Functions
 
-- AWS Step Functions
-- AWS Lambda
-- Amazon S3
-- Amazon Rekognition
-- Amazon DynamoDB
-- Amazon Cloudwatch
-- Amazon Cloudtrail
+- 1 AWS Step Functions
+- 2 AWS Lambda
+- 3 Amazon S3
+- 4 Amazon Rekognition
+- 5 Amazon DynamoDB
+- 6 Amazon Cloudwatch
+- 7 Amazon Cloudtrail
 
 ## Requisitos
 
-- Conta ativa na AWS
+- Conta ativa na AWS, cuidado com custo final.
+- 
 
 ## Roteiro de desenvolvimento
 
@@ -27,7 +30,8 @@ AWS orquestrada por meio do
 - Criar uma regra de evento no AWS Cloudwatch
 - Testar
 
-## Passos do desenvolvimento
+## Passos do desenvolvimento...faca com calma .
+
 
 ### Criar bucket no Amazon S3
 
@@ -44,7 +48,7 @@ AWS orquestrada por meio do
  - Lambda Console -> Create function -> Author from scratch -> Function name [extract-metadata-function] -> Runtime [Python3.8] -> Role [Create new role with basic Lambda permissions] -> Create function
  - Inserir o [código](src/lambda_file_metadata.py) no editor de código -> Deploy
 
-#### Função para chamada da API do Amazon Rekognition
+#### Função para chamada da API do Amazon Rekognition  ( parte q mais curto)) 
 
 - Lambda Console -> Create function -> Author from scratch -> Function name [rekognition-api-function] -> Runtime [Python3.8] -> Role [Create new role with basic Lambda permissions] -> Create function
  - Inserir o [código](src/lambda_rekognition_api.py) no editor de código -> Deploy
@@ -60,7 +64,7 @@ AWS orquestrada por meio do
   - AmazonDynamoDBFullAccess
   - AWSCloudTrail_FullAccess 
 
-### Criar máquina de estado no AWS Step Functions
+### Criar máquina de estado no AWS Step Functions    
 
  - Step Functions Console -> State machines -> Create state machine -> Write your workflow in code -> Standard -> Inserir o [código](src/state_machine.json) no editor -> Next
  - Name [nome_da_sua_state_machine] -> Execution role [Create_new_role] -> Create state machine
@@ -77,6 +81,8 @@ AWS orquestrada por meio do
  - Targets -> Add target -> Step Functions state machine -> State machine [sua_state_machine] -> Create a new role for this specific resource
  - Configure details -> Name [nome_da_rule]
 
-### ENCERRA SERVICO AWS. (( para nao gerar custos))
+### ENCERRA SERVIÇO AWS. (( para nao gerar custos))
 
-Rogerio Tavares.
+Rogerio Tavares.  ((16 MARCO 24)) 
+
+![diagrama arquitetura.jpg](diagrama%20arquitetura.jpg)
