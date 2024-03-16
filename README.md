@@ -1,8 +1,8 @@
 # TREINO  Step Functions - 
-ROGERIO TAVARES 16 MARCO 24
 
 
-Treino pratico ,  para desenvolver uma aplicaçao baseada em servicos  da
+
+Treino pratico, para desenvolver uma aplicaçao baseada em servicos  da
 AWS orquestrada por meio do
 
 ## Serviços AWS utilizados  AWS Step Functions
@@ -18,7 +18,7 @@ AWS orquestrada por meio do
 ## Requisitos
 
 - Conta ativa na AWS, cuidado com custo final.
-- 
+
 
 ## Roteiro de desenvolvimento
 
@@ -81,7 +81,7 @@ AWS orquestrada por meio do
  - Targets -> Add target -> Step Functions state machine -> State machine [sua_state_machine] -> Create a new role for this specific resource
  - Configure details -> Name [nome_da_rule]
 
-### ENCERRA SERVIÇO AWS. (( para nao gerar custos))
+### ENCERRA SERVIÇO AWS. (( para não gerar custos ))
 
 Rogerio Tavares.  ((16 MARCO 24)) 
 
