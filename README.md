@@ -5,17 +5,16 @@ Treino pratico, para desenvolver uma aplicaçao baseada em servicos  da
 AWS orquestrada por meio do  Serviços AWS utilizados 
 AWS Step Functions
 
-- 1 AWS Step Functions
-- 2 AWS Lambda
-- 3 Amazon S3
-- 4 Amazon Rekognition
-- 5 Amazon DynamoDB
-- 6 Amazon Cloudwatch
-- 7 Amazon Cloudtrail
+- 1  AWS Step Functions
+- 2  AWS Lambda
+- 3  Amazon S3
+- 4  Amazon Rekognition
+- 5  Amazon DynamoDB
+- 6  Amazon Cloudwatch
+- 7  Amazon Cloudtrail
 
 ## Requisitos
-
-- Conta ativa na AWS...
+Conta ativa na AWS...
 
 
 ## Roteiro de desenvolvimento
