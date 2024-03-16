@@ -15,7 +15,7 @@ AWS Step Functions
 
 ## Requisitos
 
-- Conta ativa na AWS, cuidado com custo final.
+- Conta ativa na AWS...
 
 
 ## Roteiro de desenvolvimento
